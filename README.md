@@ -2,13 +2,6 @@
 
 A modern, responsive web application showcasing the world's top hackathon platforms. Discover where innovators gather to build the future!
 
-## 🏆 Featured Hackathon Platforms
-
-- **HackerEarth** - Enterprise hackathon platform with 7.6M+ developers
-- **Devpost** - Home of the world's best online and in-person hackathons
-- **DoraHacks** - Global hackathon organizer with blockchain focus
-- **Superteam Earn** - Find high-paying crypto gigs and bounties
-- **HackQuest** - Manage projects and track your hackathon journey
 
 ## 💻 Technologies Used
 
@@ -102,9 +95,4 @@ This project is available for personal and commercial use. Feel free to modify a
 
 - Background images from Unsplash
 - Icons from Font Awesome
-- Platform information sourced from official websites of:
-  - HackerEarth
-  - Devpost
-  - DoraHacks
-  - Superteam Earn
-  - HackQuest 
+- Platform information sourced from official websites
